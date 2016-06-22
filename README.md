@@ -11,6 +11,13 @@ Features
 5. Photo Upload
 6. Chat(private)
 
+##User Journey
+
+Omosh loves travelling and meeting up people.He wants to connect with people for a Hiking activity.He downloads the app from playstore. He launches the app and signs up using HIs google or facebook account.
+In the timeline, he finds his category i.e Hiking from the listed activities.
+
+Omosh now can see the other people interested in the same activities. The user comments on the activity. The user can also message the other users interested in the same activity.
+
 
 ##Contributors:
 
@@ -19,3 +26,4 @@ Features
 3. [Davies Tonui](https://github.com/tonuidavies)
 4. [James Gitari](https://github.com/gitalry)
 5. [Brian Kilel](https://github.com/Apophus)
+
