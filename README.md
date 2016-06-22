@@ -1,7 +1,7 @@
 # WeAppening
 by mercury
 
-##WeBeAppening## is a web/mobile app to connect people who want to do an activity with others who would like to tag along.
+*WeBeAppening* is a web/mobile app to connect people who want to do an activity with others who would like to tag along.
 
 Features
 1. Profile
