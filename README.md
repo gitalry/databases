@@ -4,8 +4,9 @@ by mercury
 
 
 Features
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Profile
+2. Timeline
+3. Social Media Share
+4. Comment
+5. Photo Upload
+6. Chat(private)
