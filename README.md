@@ -20,10 +20,10 @@ Omosh now can see the other people interested in the same activities. The user c
 
 
 ###Resources
-[Android Arsenal](www.android-arsenal.com)
-[APIs * Google+ API * Facebook API * Google Maps API * ]
-[Migueul's blog](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-[web development using Flask](flask123.qiniudn.com/Flask_Web_Development_201404.pdf)
+1. [Android Arsenal](www.android-arsenal.com)
+2. [APIs * Google+ API * Facebook API * Google Maps API * ]
+3. [Migueul's blog](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+4. [web development using Flask](flask123.qiniudn.com/Flask_Web_Development_201404.pdf)
 
 
 ##Contributors:
