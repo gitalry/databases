@@ -14,7 +14,7 @@ Features
 
 ##Contributors:
 
-1. [Victor MUthomi](https://github.com/victsomie)
+1. [Victor Muthomi](https://github.com/victsomie)
 2. [Erick Munene](https://github.com/erick-munene)
 3. [Davies Tonui](https://github.com/tonuidavies)
 4. [James Gitari](https://github.com/gitalry)
