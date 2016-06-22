@@ -19,6 +19,13 @@ In the timeline, he finds his category i.e Hiking from the listed activities.
 Omosh now can see the other people interested in the same activities. The user comments on the activity. The user can also message the other users interested in the same activity.
 
 
+###Resources
+[Android Arsenal](www.android-arsenal.com)
+[APIs * Google+ API * Facebook API * Google Maps API * ]
+[Migueul's blog](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+[web development using Flask](flask123.qiniudn.com/Flask_Web_Development_201404.pdf)
+
+
 ##Contributors:
 
 1. [Victor Muthomi](https://github.com/victsomie)
