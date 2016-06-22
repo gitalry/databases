@@ -24,6 +24,8 @@ Omosh now can see the other people interested in the same activities. The user c
 2. [APIs * Google+ API * Facebook API * Google Maps API * ]
 3. [Miguel's blog](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 4. [web development using Flask](flask123.qiniudn.com/Flask_Web_Development_201404.pdf)
+5. [python docs](https://docs.python.org/3/)
+6. [Flask docs](http://flask.pocoo.org/docs/0.11/)
 
 
 ##Contributors:
